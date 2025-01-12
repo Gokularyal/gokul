@@ -1,5 +1,3 @@
-# gokul
-This is my first git Repository.
 <!DOCTYPE html>
 <html lang="en"> <!-- this is root of the html or root tag-->
 <head><!-- these are the sub tags of root tag-->
@@ -37,3 +35,4 @@ This is my first git Repository.
 <p> 3<sup>2</sup>=9</p>
 
 </html>
+This is my first git Repository.
